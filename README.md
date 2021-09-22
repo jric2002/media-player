@@ -26,7 +26,7 @@ Este sencillo reproductor de multimedia esta hecho con Html, Css y JavaScript.
     ```bash
     npm run start
     ```
-5. También podrías desplegar el proyecto en modo de desarrollo.
+5. También puedes desplegar el proyecto en modo de desarrollo.
     ```bash
     npm run dev
     ```
