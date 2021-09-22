@@ -19,7 +19,7 @@ Este sencillo reproductor de multimedia esta hecho con Html, Css y JavaScript.
     ```bash
     npm install
     ```
-4. Listo, ahora puedes construir el proyecto en una carpeta `dist` y luego desplegar el proyecto en modo producción.
+4. Listo, ahora puedes construir el proyecto en una carpeta `dist` y luego desplegar el proyecto en modo de producción.
     ```bash
     npm run build
     ```
