@@ -11,17 +11,14 @@ Este sencillo reproductor de multimedia esta hecho con Html, Css y JavaScript.
 
 ## Instalación
 1. Necesitas Node.js para desplegar este proyecto de manera local, lo puedes descargar desde su sitio oficial [Node.js](https://nodejs.org/es/download/).
-
 2. Una vez que tengas instalado Node.js, deberas clonar este repositorio.
     ```bash
     git clone https://github.com/jric2002/media-player
     ```
-
 3. Entramos a la carpeta `media-player` e instalamos los módulos que necesita del proyecto.
     ```bash
     npm install
     ```
-
 4. Listo, ahora puedes construir el proyecto en una carpeta `dist` y luego desplegar el proyecto en modo producción.
     ```bash
     npm run build
@@ -29,7 +26,6 @@ Este sencillo reproductor de multimedia esta hecho con Html, Css y JavaScript.
     ```bash
     npm run start
     ```
-
 5. También podrías desplegar el proyecto en modo de desarrollo.
     ```bash
     npm run dev
