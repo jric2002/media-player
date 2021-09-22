@@ -12,7 +12,7 @@ Este sencillo reproductor de multimedia esta hecho con Html, Css y JavaScript.
 ## Instalación
 
 ## Soporte
-Si tienes alguna sugerencia o si ocurre algún problema, puedes dejar tu comentario en la sección de [Issues](https://github.com/jric2002/media-player/issues).
+Si tienes alguna sugerencia o si ocurre algún problema, puedes dejar tu comentario en la sección de **[Issues](https://github.com/jric2002/media-player/issues)**.
 
 ## Licencia
 Vea el archivo de [Licencia](https://github.com/jric2002/media-player/blob/master/LICENSE) para más detalles.  
