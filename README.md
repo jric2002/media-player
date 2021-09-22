@@ -10,9 +10,33 @@ Este sencillo reproductor de multimedia esta hecho con Html, Css y JavaScript.
 * Reproduce archivos de audio
 
 ## Instalación
+1. Necesitas Node.js para desplegar este proyecto de manera local, lo puedes descargar desde su sitio oficial [Node.js](https://nodejs.org/es/download/).
+
+2. Una vez que tengas instalado Node.js, deberas clonar este repositorio.
+    ```bash
+    git clone https://github.com/jric2002/media-player
+    ```
+
+3. Entramos a la carpeta `media-player` e instalamos los módulos que necesita del proyecto.
+    ```bash
+    npm install
+    ```
+
+4. Listo, ahora puedes construir el proyecto en una carpeta `dist` y luego desplegar el proyecto en modo producción.
+    ```bash
+    npm run build
+    ```
+    ```bash
+    npm run start
+    ```
+
+5. También podrías desplegar el proyecto en modo de desarrollo.
+    ```bash
+    npm run dev
+    ```
 
 ## Soporte
-Si tienes alguna sugerencia o si ocurre algún problema, puedes dejar tu comentario en la sección de **[Issues](https://github.com/jric2002/media-player/issues)**.
+Si tienes alguna sugerencia o si ocurre algún problema, puedes dejar tu comentario en la sección de [Issues](https://github.com/jric2002/media-player/issues).
 
 ## Licencia
 Vea el archivo de [Licencia](https://github.com/jric2002/media-player/blob/master/LICENSE) para más detalles.  
